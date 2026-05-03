@@ -320,34 +320,9 @@ Server is running on port 8080
 http://localhost:8080/
 ```
 
-## Contributing 🤝
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-If you have suggestions for adding or removing projects, feel free to open an issue to discuss it, or directly create a pull request with necessary changes.
 
-1. Fork it (`git clone https://github.com/awesome-yasin/PDF-Verse.git`)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-### Contributors
-
-<a href="https://github.com/awesome-yasin/PDF-Verse/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=awesome-yasin/PDF-Verse" />
-</a>
-
-## Contact info
-
-Feel free to contact me if you come through any error or want Guide of how to learn Full stack Development. You can also contact me if you want to Hire me for Your Project or organization.
-
-<a href ="mailto:yasinn7860@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
-<a href ="https://www.linkedin.com/in/md-yasin-ansari-92a935221/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a> <a href ="https://www.instagram.com/yasinn.0x/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-
-## Like my work? 💖
-
-This project needs a ⭐️ from you. Don't forget to leave a star ⭐️. It is the only motivation for me to code awesome internet tools and stuff. If you found PDF Verse helpful consider supporting me with a Follow.
 
 ## License
 
